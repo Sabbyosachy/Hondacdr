@@ -1,0 +1,230 @@
+/*-------------- Home------------- */
+.Home{
+background-color: #264653;
+width: 100%;
+height: 100vh;
+}
+/*------------ navbar---------------- */
+.nav-link{
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    margin-right: 25px;
+}
+/*----------------- button align color ----------------------- */
+.button{
+    width: 80px;
+    text-align: center;
+    background-color: #E76F51;
+    color: white;
+    margin: 0px 60px;
+    border-radius: 5px;
+}
+
+/*--------------- button design click and modal open -------------------- */
+
+.Purchase{
+
+    text-decoration: none;
+    text-align: center;
+    background-color: #E76F51;
+    color: white;
+   padding: 7px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    
+    
+
+}
+.Purchase:hover{
+    color: white;
+}
+.Bike-inf{
+    color: white;
+}
+.Bike-inf p{
+    font-size: 14px;
+    text-align: justify;
+    margin: 25px 0;
+}
+
+.Bike-inf h1{
+margin-top: -20px;
+font-size: 46px;
+font-weight: 500;
+font-family: 'Poppins', sans-serif;
+
+}
+/* ------------labael color --------------------- */
+
+label{
+    color: #264653;
+    font-weight: bold;
+}
+/*-------------- modal header design --------------- */
+.modal-header h5{
+    font-weight: bold;
+    color: white;
+}
+.modal-header{
+    background:#264653;
+
+
+}
+/*------------ modal footer design ---------------- */
+.modal-footer{
+    background:#264653;
+}
+.modal-footer a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight:500;
+    border: 2px solid white;
+    padding: 5px 15px;
+
+}
+/* -------------------From control design -------------------- */
+.form-control{
+    border: 2px solid #264653;
+}
+/*------------------ shop heading one ------------------- */
+
+.shop h1{
+    font-size: 40px;
+    font-weight:bold;
+    font-family: 'Poppins', sans-serif;
+}
+/*---------------- shop paragraph ---------------------- */
+.shop p{
+    color:#E76F51;
+    font-weight: 700;
+}
+
+hr{
+    width: 70px;
+    color: #ff3300;
+    border: 1px solid #ff3300;
+   
+}
+
+/*-------------- shop image sizing ------------------ */
+.shop img{
+    width: 288px;
+    height: 243px;
+    margin-top: 80px;
+}
+/*-------------- image filter grey ---------------- */
+.greyscall{
+    filter: grayscale(100);
+}
+.News h1{
+    font-size: 40px;
+    font-weight:bold;
+    font-family: 'Poppins', sans-serif;
+}
+/*-------------- latest news --------------- */
+.card{
+    border-radius: 15px;
+}
+
+.card h5{
+    font-size:27px;
+    font-weight: bold;
+    margin-left: 0;
+    margin: 15px 0px 20px 0;
+    
+}
+/*---------------- card bitton edit ----------------- */
+.card .bg-button{
+    text-decoration: none;
+    text-align: center;
+    border: 2px solid #E76F51;
+    background-color: #E76F51;
+    color: white;
+   padding: 7px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    
+}
+/*------------- 2 and 3 card button design -------------- */
+.card .otuline-button{
+    text-decoration: none;
+    text-align: center;
+    border: 2px solid #E76F51;
+    color:#E76F51;
+   padding: 7px 20px;
+    border-radius: 5px;
+    font-weight: 700; 
+    
+}
+/*-------------- card paragraph --------------- */
+.card-body p{
+    font-size: 14px;
+    text-align: justify;
+}
+
+span{
+    color: #E76F51;
+}
+
+/* -------------------Clients review -------------- */
+.Clients-review h1{
+    font-size: 46px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+/*-------------- client image design ----------------- */
+
+.Clients-review img{
+    width: 149px;
+    height: 149px;
+    align-items: center;
+}
+.girl{
+    clip-path: circle();
+}
+
+/*------------------- Frequently asked questio ------------------ */
+.Freequently-Question h1{
+font-size: 46px;
+font-weight: bold;
+font-family: 'Poppins', sans-serif;
+}
+
+/*--------------- product section button  ------------------ */
+.Product a{
+
+    text-decoration: none;
+    text-align: center;
+    background-color: #E76F51;
+    color: white;
+   padding: 6px 9px;
+  
+    border-radius: 5px;
+    font-weight: 700;
+
+}
+/*--------------product price -------------- */
+.Product h6{
+    font-weight: bold;
+    color: #E76F51;
+    margin: 20px 0 30px 0;
+}
+/*---------------- Footer section design ------------------- */
+footer{
+    color: white;
+    
+}
+footer li{
+    list-style: none;
+    margin-right: 30px;
+    font-weight: 500;
+    margin-left: -10px;
+}
+/*------------------------ footer image sizing ----------------  */
+footer img{
+    width: 120px;
+}
